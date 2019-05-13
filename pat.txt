@@ -1,0 +1,6 @@
+Asim	1234567895	19	Male	Delhi	Good
+Ujwal	4567891235	19	Male		Patna	Healthy
+charchil	94135915	19	male		alwar	nothing
+Akshaz	8989176299	19	Male		Indore	Nothing
+sujash	941343015	19	Male		alwar	nothing
+Santosh	9413443049	42	Female		Alwar	nothing

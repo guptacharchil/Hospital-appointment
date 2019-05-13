@@ -1,0 +1,9 @@
+Anmol   9541234789 32 Male   1234   Alwar  Allergist
+Rohit  9873216540 45 Male   1234   Indore Cardiologist
+Yash   6395287401 38 Male   1234   Jaipur Orthopedic
+Piyush 8974562130 46 Male   1234   Ajmer  Surgeon
+Aman   9654871230 49 Male   1234   Bhopal Physiolist
+Jiya   941343049  36 Female 1234   Alwar  Neurologist
+Charchil   9511574765 28 Male   1234   Alwar  Dentist
+Saloni 6549871230 30 Female 1234   Alwar  Urologist
+Manas  4569871230 52 Male   1234   Alwar  Infectious
